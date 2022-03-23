@@ -2,6 +2,13 @@
 
 ## Untagged
 
+## [1.8.0](https://github.com/GoogleCloudPlatform/professional-services-data-validator/compare/v1.7.0...v1.8.0) (2022-03-23)
+
+
+### Features
+
+* Support for custom query ([#390](https://github.com/GoogleCloudPlatform/professional-services-data-validator/issues/390)) ([7a218d2](https://github.com/GoogleCloudPlatform/professional-services-data-validator/commit/7a218d2b516d480dad05f6fb52ed6347aef429ed))
+
 ## [1.7.0](https://github.com/GoogleCloudPlatform/professional-services-data-validator/compare/v1.6.0...v1.7.0) (2022-03-23)
 
 
